@@ -1,8 +1,9 @@
 {
   "user":{
-    "nombre":"Camila",
+    "nombre":"Camila Santacruz",
     "email":"milalovechaton@gmail.com",
-    "password":"1992juanes"
+    "password":"1992juanes",
+    "titulo": "Fullstack Developer"
   },
   "proyectos": [
     {

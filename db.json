@@ -3,7 +3,8 @@
     "nombre":"Camila Santacruz",
     "email":"milalovechaton@gmail.com",
     "password":"1992juanes",
-    "titulo": "Fullstack Developer Jr"
+    "titulo": "Fullstack Developer Jr",
+    "imagen": "images/mila.png"
   },
   "proyectos": [
     {

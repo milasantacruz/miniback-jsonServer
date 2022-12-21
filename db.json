@@ -1,4 +1,9 @@
 {
+  "user":{
+    "nombre":"Camila",
+    "email":"milalovechaton@gmail.com",
+    "password":"1992juanes"
+  },
   "proyectos": [
     {
       "id": 1,

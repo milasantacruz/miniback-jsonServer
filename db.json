@@ -4,7 +4,8 @@
     "email":"milalovechaton@gmail.com",
     "password":"1992juanes",
     "titulo": "Fullstack Developer Jr",
-    "imagen": "images/mila.png"
+    "imagen": "images/mila.png",
+    "img2": "https://github.com/milasantacruz/portfolio-front-estatico/blob/fe1c4046dfc7a74f899cfc399a5dd3be7eb9712c/images/mila.png?raw=true"
   },
   "proyectos": [
     {

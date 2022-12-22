@@ -14,7 +14,7 @@
       "puesto": "FullStack Developer",
       "periodo": "2019 - 2021",
       "descripcion": "Diseno y desarrollo de la landing del proyecto. El Frontend fue realizado con Htlml, Javascript y Bulma-css. Tambien se implemento una base de datos de firebase para la recoleccion de Emails y subscripcion",
-      "imagen": "./images/ns.png"
+      "imagen": "https://github.com/milasantacruz/portfolio-front-estatico/blob/fe1c4046dfc7a74f899cfc399a5dd3be7eb9712c/images/ns.png?raw=true"
     },
     {
       "id": 2,
@@ -22,7 +22,7 @@
       "puesto": "Doctors Appointment",
       "periodo": "2020 -2022",
       "descripcion": "Diseno y desarrollo de la Web del Estudio. El Frontend fue realizado con React/Gatsby , Bulma-css y desplegado en Netlify. Tambien se implemento un Headless CMS de Strapi con postgress y Heroku",
-      "imagen": "./images/lofo-fkr.png"
+      "imagen": "https://github.com/milasantacruz/portfolio-front-estatico/blob/fe1c4046dfc7a74f899cfc399a5dd3be7eb9712c/images/lofo-fkr.png?raw=true"
     },
     {
       "id": 3,
@@ -30,7 +30,7 @@
       "puesto": "FullStack Developer",
       "periodo": "2020 - 2022",
       "descripcion": "Diseno y desarrollo del portfolio de Florencia Muriel, animadora 2D. El Frontend fue realizado con React/Gatsby , Bulma-css y desplegado en Netlify. Tambien se implemento un Headless CMS de Strapi con postgress y Heroku",
-      "imagen": "./images/flor.png"
+      "imagen": "https://github.com/milasantacruz/portfolio-front-estatico/blob/fe1c4046dfc7a74f899cfc399a5dd3be7eb9712c/images/flor.PNG?raw=true"
     },
     {
       "id": 4,
@@ -38,7 +38,7 @@
       "puesto": "JAMStack Developer",
       "periodo": "2021-2022",
       "descripcion": "Diseno y desarrollo de la web del proyecto. El Frontend fue realizado con React/Gatsby , Bulma-css y desplegado en Netlify. Tambien se implemento un Headless CMS de Strapi con SQLite y Docker",
-      "imagen": "./images/logoit_it.png"
+      "imagen": "https://github.com/milasantacruz/portfolio-front-estatico/blob/fe1c4046dfc7a74f899cfc399a5dd3be7eb9712c/images/logoit_it.png?raw=true"
     }
   ],
   "educacion":[
@@ -48,7 +48,7 @@
       "titulo": "FrontEnd Development",
       "periodo": "2018",
       "descripcion": "Desarrollo web FrontEnd; HTML5, css, js",
-      "imagen": "./images/ada.png"
+      "imagen": "https://github.com/milasantacruz/portfolio-front-estatico/blob/fe1c4046dfc7a74f899cfc399a5dd3be7eb9712c/images/ada.png?raw=true"
     },
     {
       "id": 2,
@@ -56,7 +56,7 @@
       "titulo": "Fundamentos de la programacion",
       "periodo": "2021",
       "descripcion": "Programacion imperativa y Programacion dirigida a Objetos",
-      "imagen": "./images/argentinaprograma.png"
+      "imagen": "https://github.com/milasantacruz/portfolio-front-estatico/blob/fe1c4046dfc7a74f899cfc399a5dd3be7eb9712c/images/argentinaprograma.png?raw=true"
     },
     {
       "id": 3,
@@ -64,7 +64,7 @@
       "titulo": "Programacion Web FullStack",
       "periodo": "2022",
       "descripcion": "Angular,Api Rest, TypeScript, Bases de Datos, Java, SpringBoot y DevOps",
-      "imagen": "./images/argentinaprograma.png"
+      "imagen": "https://github.com/milasantacruz/portfolio-front-estatico/blob/fe1c4046dfc7a74f899cfc399a5dd3be7eb9712c/images/argentinaprograma.png?raw=true"
     }
   ]
 }

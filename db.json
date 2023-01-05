@@ -13,7 +13,7 @@
       "empresa": "Neurosynch",
       "puesto": "FullStack Developer",
       "periodo": "2019 - 2021",
-      "descripcion": "Diseno y desarrollo de la landing del proyecto. El Frontend fue realizado con Htlml, Javascript y Bulma-css. Tambien se implemento una base de datos de firebase para la recoleccion de Emails y subscripcion",
+      "descripcion": "Diseño y desarrollo del landing del proyecto. El Frontend fue realizado con Html, Javascript y Bulma-css. También se implementó una base de datos de firebase para la recolección de Emails y suscripción",
       "imagen": "https://github.com/milasantacruz/portfolio-front-estatico/blob/fe1c4046dfc7a74f899cfc399a5dd3be7eb9712c/images/ns.png?raw=true"
     },
     {
@@ -21,7 +21,7 @@
       "empresa": "Freaknoize Studio",
       "puesto": "Doctors Appointment",
       "periodo": "2020 -2022",
-      "descripcion": "Diseno y desarrollo de la Web del Estudio. El Frontend fue realizado con React/Gatsby , Bulma-css y desplegado en Netlify. Tambien se implemento un Headless CMS de Strapi con postgress y Heroku",
+      "descripcion": "Diseño y desarrollo de la Web del Estudio. El Frontend fue realizado con React/Gatsby , Bulma-css y desplegado en Netlife. También se implementó un Headless CMS de Strapi con postgress y Heroku",
       "imagen": "https://github.com/milasantacruz/portfolio-front-estatico/blob/fe1c4046dfc7a74f899cfc399a5dd3be7eb9712c/images/lofo-fkr.png?raw=true"
     },
     {
@@ -29,7 +29,7 @@
       "empresa": "Florencia Muriel",
       "puesto": "FullStack Developer",
       "periodo": "2020 - 2022",
-      "descripcion": "Diseno y desarrollo del portfolio de Florencia Muriel, animadora 2D. El Frontend fue realizado con React/Gatsby , Bulma-css y desplegado en Netlify. Tambien se implemento un Headless CMS de Strapi con postgress y Heroku",
+      "descripcion": "Diseño y desarrollo del portfolio de Florencia Muriel, animadora 2D. El Frontend fue realizado con React/Gatsby , Bulma-css y desplegado en Netlify. Tambien se implemento un Headless CMS de Strapi con postgress y Heroku",
       "imagen": "https://github.com/milasantacruz/portfolio-front-estatico/blob/fe1c4046dfc7a74f899cfc399a5dd3be7eb9712c/images/flor.PNG?raw=true"
     },
     {
@@ -37,7 +37,7 @@
       "empresa": "Intercambios Transorganicos",
       "puesto": "JAMStack Developer",
       "periodo": "2021-2022",
-      "descripcion": "Diseno y desarrollo de la web del proyecto. El Frontend fue realizado con React/Gatsby , Bulma-css y desplegado en Netlify. Tambien se implemento un Headless CMS de Strapi con SQLite y Docker",
+      "descripcion": "Diseño y desarrollo de la página web del proyecto. El Frontend fue realizado con React/Gatsby , Bulma-css y desplegado en Netlify. Tambien se implemento un Headless CMS de Strapi con SQLite y Docker",
       "imagen": "https://github.com/milasantacruz/portfolio-front-estatico/blob/fe1c4046dfc7a74f899cfc399a5dd3be7eb9712c/images/logoit_it.png?raw=true"
     }
   ],

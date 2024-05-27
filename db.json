@@ -15,10 +15,8 @@
       "periodo": "2020",
       "descripcion": "Portfolio de Florencia Muriel, animadora 2D.",
       "imagen": "https://github.com/milasantacruz/portfolio-front-estatico/blob/fe1c4046dfc7a74f899cfc399a5dd3be7eb9712c/images/flor.PNG?raw=true",
-      "tech" : {
-        "frontend": "Gatsby, Bulma, Netlify",
-        "backend": "SQLite, Strapi, Heroku"
-      },
+      "frontend": ["Gatsby", "Bulma", "Netlify"],
+      "backend": ["SQLite", "Strapi", "Heroku"],
       "tasks" : [
         "Diseño y mockup de la página",
         "Desarrollo de la página con React/Gatsby",
@@ -35,10 +33,8 @@
       "periodo": "2021",
       "descripcion": "Portfolio de servicios del estudio Audiovisual Visual Freaknoise.",
       "imagen": "https://github.com/milasantacruz/portfolio-front-estatico/blob/fe1c4046dfc7a74f899cfc399a5dd3be7eb9712c/images/flor.PNG?raw=true",
-      "tech" : {
-        "frontend": "Gatsby, Bulma, Netlify",
-        "backend": "SQLite, Strapi, Heroku"
-      },
+      "frontend": ["Gatsby", "Bulma", "Netlify"],
+      "backend": ["SQLite", "Strapi", "Heroku"],
       "tasks" : [
         "Diseño y mockup de la página",
         "Desarrollo de la página con React/Gatsby",
@@ -55,10 +51,8 @@
       "periodo": "2023",
       "descripcion": "Agenda de citas medicas para los pacientes de Clinica las Condes.",
       "imagen": "https://github.com/milasantacruz/portfolio-front-estatico/blob/fe1c4046dfc7a74f899cfc399a5dd3be7eb9712c/images/flor.PNG?raw=true",
-      "tech" : {
-        "Prototipo": "Figma, Adobe Illustrator",
-        "frontend": "Flutter, MaterialUI, Amplify"
-      },
+      "Prototipo": ["Figma", "Adobe", "Illustrator"],
+      "frontend": ["Flutter", "MaterialUI", "Amplify"],
       "tasks" : [
         "Desarrollo de prototipos Low Fidelity y High Fidelity",
         "Desarrollo de Interfaces de usuario web y móviles con Flutter y MaterialUI.",
@@ -72,17 +66,32 @@
     },
     {
       "id": 3,
+      "empresa": "Chameleon Agile",
+      "puesto": "UX/UI - Frontend Developer",
+      "periodo": "2023",
+      "descripcion": "Agenda de gestion de turnos para los profesionales de Clinica las Condes.",
+      "imagen": "https://github.com/milasantacruz/portfolio-front-estatico/blob/fe1c4046dfc7a74f899cfc399a5dd3be7eb9712c/images/flor.PNG?raw=true",
+      "Prototipo": ["Figma", "Adobe", "Illustrator"],
+      "frontend": ["Flutter", "MaterialUI"," Amplify"],
+      "tasks" : [
+        "Desarrollo de prototipos Low Fidelity y High Fidelity",
+        "Desarrollo de Interfaces de usuario web y móviles con Flutter y MaterialUI."
+      ],
+      "retos" : [
+        "Diseñar un calendario para visualizar las citas agendadas y turnos disponibles por dia, semana y mes"
+      ]
+    },
+    {
+      "id": 4,
       "empresa": "Aktua",
       "puesto": "Analista Desarrolladora",
       "periodo": "2023-2024",
       "descripcion": "plataforma comunitaria diseñada para conectar a los vecinos del barrio.",
       "imagen": "https://github.com/milasantacruz/portfolio-front-estatico/blob/fe1c4046dfc7a74f899cfc399a5dd3be7eb9712c/images/flor.PNG?raw=true",
-      "tech" : {
-        "Administracion de proyectos": "Jira, Confluence",
-        "Prototipo": "Figma, Protopie",
-        "frontend": "Flutter, MaterialUI",
-        "backend": "FastAPI, AWS"
-      },
+      "Administracion de proyectos": ["Jira", "Confluence"],
+      "Prototipo": ["Figma", "Protopie"],
+      "frontend":[ "Flutter", "MaterialUI"],
+       "backend": ["FastAPI", "AWS"],
       "tasks" : [
         "Gestion de proyecto en Jira y Confluence",
         "Desarrollo de prototipos Low Fidelity y High Fidelity para el MVP ",
@@ -100,16 +109,14 @@
       ]
     },
     {
-      "id": 4,
+      "id": 5,
       "empresa": "Luc-IA",
       "puesto": "UX/UI - Frontend Developer",
       "periodo": "2024",
       "descripcion": "App de monitoreo y registro de datos clínico para adultos mayores",
       "imagen": "https://github.com/milasantacruz/portfolio-front-estatico/blob/fe1c4046dfc7a74f899cfc399a5dd3be7eb9712c/images/flor.PNG?raw=true",
-      "tech" : {
-        "Prototipo": "Figma, Adobe Illustrator",
-        "frontend": "Flutter, MaterialUI"
-      },
+      "Prototipo": ["Figma", "Adobe", "Illustrator"],
+      "frontend": ["Flutter", "MaterialUI"],
       "tasks" : [
         "Desarrollo de prototipos Low Fidelity y High Fidelity ",
         "Pruebas de Usabilidad y A/B Testing",

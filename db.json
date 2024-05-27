@@ -18,7 +18,7 @@
     },
     {
       "id": 2,
-      "empresa": "Freaknoize Studio",
+      "empresa": "Freaknoize ",
       "puesto": "JAMStack Developer",
       "periodo": "2020 -2022",
       "descripcion": "Diseño y desarrollo de la Web del Estudio. El Frontend fue realizado con React/Gatsby , Bulma-css y desplegado en Netlife. También se implementó un Headless CMS de Strapi con postgress y Heroku",

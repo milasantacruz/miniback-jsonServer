@@ -24,6 +24,11 @@
       ],
       "retos" : [
         "Crear un Banner interactivo para el inicio de la página con P5.js"
+      ],
+      "imagenes": [
+        "https://res.cloudinary.com/dh6mxktv3/image/upload/v1716856075/Rectangle-6_jd1ewr.jpg",
+        "https://res.cloudinary.com/dh6mxktv3/image/upload/v1716856074/Rectangle-2_yge6s7.jpg",
+        "https://res.cloudinary.com/dh6mxktv3/image/upload/v1716856075/Rectangle-7_dyquzu.jpg"
       ]
     },
     {
@@ -88,7 +93,7 @@
       "periodo": "2023-2024",
       "descripcion": "plataforma comunitaria diseñada para conectar a los vecinos del barrio.",
       "imagen": "https://github.com/milasantacruz/portfolio-front-estatico/blob/fe1c4046dfc7a74f899cfc399a5dd3be7eb9712c/images/flor.PNG?raw=true",
-      "Administracion de proyectos": ["Jira", "Confluence"],
+      "admin": ["Jira", "Confluence"],
       "Prototipo": ["Figma", "Protopie"],
       "frontend":[ "Flutter", "MaterialUI"],
        "backend": ["FastAPI", "AWS"],
@@ -121,7 +126,7 @@
         "Desarrollo de prototipos Low Fidelity y High Fidelity ",
         "Pruebas de Usabilidad y A/B Testing",
         "Desarrollo de Interfaces de usuario web y móviles con Flutter y MaterialUI.",
-        "Integracion con Odo para administracion de Usuarios y autenticación."
+        "Integracion con Odo para adminy autenticación."
       ],
       "retos" : [
         "Visualización de los datos de los dispositivos de monitoreo en tiempo real.",

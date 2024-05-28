@@ -38,7 +38,7 @@
       "periodo": "2023",
       "descripcion": "Agenda de citas medicas para los pacientes de Clinica las Condes.",
       "imagen": "https://res.cloudinary.com/dh6mxktv3/image/upload/v1716869284/chameleon_pe2qoe.jpg",
-      "Prototipo": ["Figma", "Adobe", "Illustrator"],
+      "prototipo": ["Figma", "Adobe", "Illustrator"],
       "frontend": ["Flutter", "MaterialUI", "Amplify"],
       "tasks" : [
         "Desarrollo de prototipos Low Fidelity y High Fidelity",
@@ -64,7 +64,7 @@
       "periodo": "2023",
       "descripcion": "Agenda de gestion de turnos para los profesionales de Clinica las Condes.",
       "imagen": "https://res.cloudinary.com/dh6mxktv3/image/upload/v1716869284/chameleon_pe2qoe.jpg",
-      "Prototipo": ["Figma", "Adobe", "Illustrator"],
+      "prototipo": ["Figma", "Adobe", "Illustrator"],
       "frontend": ["Flutter", "MaterialUI"," Amplify"],
       "tasks" : [
         "Desarrollo de prototipos Low Fidelity y High Fidelity",
@@ -89,7 +89,7 @@
       "descripcion": "plataforma comunitaria diseñada para conectar a los vecinos del barrio.",
       "imagen": "https://res.cloudinary.com/dh6mxktv3/image/upload/v1716869147/logo_aktua_wfw4bj.png",
       "admin": ["Jira", "Confluence"],
-      "Prototipo": ["Figma", "Protopie"],
+      "prototipo": ["Figma", "Protopie"],
       "frontend":[ "Flutter", "MaterialUI"],
        "backend": ["FastAPI", "AWS"],
       "tasks" : [
@@ -121,7 +121,7 @@
       "periodo": "2024",
       "descripcion": "App de monitoreo y registro de datos clínico para adultos mayores",
       "imagen": "https://res.cloudinary.com/dh6mxktv3/image/upload/v1716869197/logo_fcezd5.png",
-      "Prototipo": ["Figma", "Adobe", "Illustrator"],
+      "prototipo": ["Figma", "Illustrator"],
       "frontend": ["Flutter", "MaterialUI"],
       "tasks" : [
         "Desarrollo de prototipos Low Fidelity y High Fidelity ",

@@ -26,27 +26,9 @@
         "Crear un Banner interactivo para el inicio de la página con P5.js"
       ],
       "imagenes": [
-        "https://res.cloudinary.com/dh6mxktv3/image/upload/v1716856075/Rectangle-6_jd1ewr.jpg",
-        "https://res.cloudinary.com/dh6mxktv3/image/upload/v1716856074/Rectangle-2_yge6s7.jpg",
-        "https://res.cloudinary.com/dh6mxktv3/image/upload/v1716856075/Rectangle-7_dyquzu.jpg"
-      ]
-    },
-    {
-      "id": 1,
-      "empresa": "Freaknoise Studio",
-      "puesto": "FullStack Developer",
-      "periodo": "2021",
-      "descripcion": "Portfolio de servicios del estudio Audiovisual Visual Freaknoise.",
-      "imagen": "https://github.com/milasantacruz/portfolio-front-estatico/blob/fe1c4046dfc7a74f899cfc399a5dd3be7eb9712c/images/flor.PNG?raw=true",
-      "frontend": ["Gatsby", "Bulma", "Netlify"],
-      "backend": ["SQLite", "Strapi", "Heroku"],
-      "tasks" : [
-        "Diseño y mockup de la página",
-        "Desarrollo de la página con React/Gatsby",
-        "Desarrollo de un CMS para la carga de videos y categorías con Strapi"
-      ],
-      "retos" : [
-        "Desplegar el Logo del Estudio en 3D con Babylon.Js"
+        "https://res.cloudinary.com/dh6mxktv3/image/upload/v1716867256/Rectangle-7_zxhmjq.png",
+        "https://res.cloudinary.com/dh6mxktv3/image/upload/v1716867235/Rectangle-6_py2ama.png",
+        "https://res.cloudinary.com/dh6mxktv3/image/upload/v1716867234/Rectangle-2_gxrhe0.png"
       ]
     },
     {
@@ -67,6 +49,12 @@
       "retos" : [
         "Diseñar un Filtro para la búsqueda de citas por Médico, Especialidad y Disponibilidad.",
         "Desarrollar un sistema de notificaciones para recordar a los pacientes de sus citas."
+      ],
+      "imagenes": [
+        "https://res.cloudinary.com/dh6mxktv3/image/upload/v1716867234/Rectangle-1_nylm0y.png",
+        "https://res.cloudinary.com/dh6mxktv3/image/upload/v1716867538/Rectangle-10_qhaetj.png",
+        "https://res.cloudinary.com/dh6mxktv3/image/upload/v1716867539/Rectangle_u97hhm.png",
+        "https://res.cloudinary.com/dh6mxktv3/image/upload/v1716856073/mockrocket-capture_9_oym1zc.png"
       ]
     },
     {
@@ -84,6 +72,13 @@
       ],
       "retos" : [
         "Diseñar un calendario para visualizar las citas agendadas y turnos disponibles por dia, semana y mes"
+      ],
+      "imagenes": [
+        "https://res.cloudinary.com/dh6mxktv3/image/upload/v1716856073/mockrocket-capture_vywe61.png",
+        "https://res.cloudinary.com/dh6mxktv3/image/upload/v1716856074/mockrocket-capture_2_wcuctn.png",
+        "https://res.cloudinary.com/dh6mxktv3/image/upload/v1716856074/mockrocket-capture_4_qil4fi.png",
+        "https://res.cloudinary.com/dh6mxktv3/image/upload/v1716856075/mockrocket-capture_6_updtay.png",
+        "https://res.cloudinary.com/dh6mxktv3/image/upload/v1716856075/mockrocket-capture_8_uaco3o.png"
       ]
     },
     {
@@ -111,6 +106,13 @@
         "Diseñar un sistema de administración de usuarios y roles para la plataforma."
  
  
+      ],
+      "imagenes": [
+        "https://res.cloudinary.com/dh6mxktv3/image/upload/v1716867808/mockuuups-smartphone-with-payment-terminal-mockup-on-orange-background_ld8mfm.jpg",
+        "https://res.cloudinary.com/dh6mxktv3/image/upload/v1716867825/iMockup_-_Google_Pixel_8_Pro-1_uvt6qq.png",
+        "https://res.cloudinary.com/dh6mxktv3/image/upload/v1716867821/iMockup_-_Google_Pixel_8_Pro_smzpun.png",
+        "https://res.cloudinary.com/dh6mxktv3/image/upload/v1716867819/iMockup_-_Google_Pixel_8_Pro-2_lpbpdt.png",
+        "https://res.cloudinary.com/dh6mxktv3/image/upload/v1716867808/mockuuups-woman-standing-and-presenting-a-iphone-mockup_bsbrue.jpg"
       ]
     },
     {
@@ -132,6 +134,13 @@
         "Visualización de los datos de los dispositivos de monitoreo en tiempo real.",
         "Desarrollar un sistema de alertas para notificar a los familiares de los adultos mayores.",
         "Administrar la distribución de la Aplicación en Play Store(Android) y App Store(ios)."
+      ],
+      "imagenes": [
+        "https://res.cloudinary.com/dh6mxktv3/image/upload/v1716867234/Rectangle-3_ontgwz.png",
+        "https://res.cloudinary.com/dh6mxktv3/image/upload/v1716867235/Rectangle-4_ialy6o.png",
+        "https://res.cloudinary.com/dh6mxktv3/image/upload/v1716867234/Rectangle-5_qp1ddw.png",
+        "https://res.cloudinary.com/dh6mxktv3/image/upload/v1716868752/mockuuups-hand-holding-an-iphone-13-pro-mockup_nvc93e.jpg",
+        "https://res.cloudinary.com/dh6mxktv3/image/upload/v1716868753/mockuuups-person-using-an-iphone-13-mockup_s9jkwz.jpg"
       ]
     }
   ],
@@ -164,3 +173,4 @@
   ]
  }
  
+

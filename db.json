@@ -14,7 +14,7 @@
       "puesto": "Full Stack Developer",
       "periodo": "2020",
       "descripcion": "Portfolio de Florencia Muriel, animadora 2D.",
-      "imagen": "https://github.com/milasantacruz/portfolio-front-estatico/blob/fe1c4046dfc7a74f899cfc399a5dd3be7eb9712c/images/flor.PNG?raw=true",
+      "imagen": "https://res.cloudinary.com/dh6mxktv3/image/upload/v1716869148/flor_d0ftw1.png",
       "frontend": ["Gatsby", "Bulma", "Netlify"],
       "backend": ["SQLite", "Strapi", "Heroku"],
       "tasks" : [
@@ -37,7 +37,7 @@
       "puesto": "UX/UI - Frontend Developer",
       "periodo": "2023",
       "descripcion": "Agenda de citas medicas para los pacientes de Clinica las Condes.",
-      "imagen": "https://github.com/milasantacruz/portfolio-front-estatico/blob/fe1c4046dfc7a74f899cfc399a5dd3be7eb9712c/images/flor.PNG?raw=true",
+      "imagen": "https://res.cloudinary.com/dh6mxktv3/image/upload/v1716869284/chameleon_pe2qoe.jpg",
       "Prototipo": ["Figma", "Adobe", "Illustrator"],
       "frontend": ["Flutter", "MaterialUI", "Amplify"],
       "tasks" : [
@@ -63,7 +63,7 @@
       "puesto": "UX/UI - Frontend Developer",
       "periodo": "2023",
       "descripcion": "Agenda de gestion de turnos para los profesionales de Clinica las Condes.",
-      "imagen": "https://github.com/milasantacruz/portfolio-front-estatico/blob/fe1c4046dfc7a74f899cfc399a5dd3be7eb9712c/images/flor.PNG?raw=true",
+      "imagen": "https://res.cloudinary.com/dh6mxktv3/image/upload/v1716869284/chameleon_pe2qoe.jpg",
       "Prototipo": ["Figma", "Adobe", "Illustrator"],
       "frontend": ["Flutter", "MaterialUI"," Amplify"],
       "tasks" : [
@@ -87,7 +87,7 @@
       "puesto": "Analista Desarrolladora",
       "periodo": "2023-2024",
       "descripcion": "plataforma comunitaria diseñada para conectar a los vecinos del barrio.",
-      "imagen": "https://github.com/milasantacruz/portfolio-front-estatico/blob/fe1c4046dfc7a74f899cfc399a5dd3be7eb9712c/images/flor.PNG?raw=true",
+      "imagen": "https://res.cloudinary.com/dh6mxktv3/image/upload/v1716869147/logo_aktua_wfw4bj.png",
       "admin": ["Jira", "Confluence"],
       "Prototipo": ["Figma", "Protopie"],
       "frontend":[ "Flutter", "MaterialUI"],
@@ -121,7 +121,7 @@
       "puesto": "UX/UI - Frontend Developer",
       "periodo": "2024",
       "descripcion": "App de monitoreo y registro de datos clínico para adultos mayores",
-      "imagen": "https://github.com/milasantacruz/portfolio-front-estatico/blob/fe1c4046dfc7a74f899cfc399a5dd3be7eb9712c/images/flor.PNG?raw=true",
+      "imagen": "https://res.cloudinary.com/dh6mxktv3/image/upload/v1716869197/logo_fcezd5.png",
       "Prototipo": ["Figma", "Adobe", "Illustrator"],
       "frontend": ["Flutter", "MaterialUI"],
       "tasks" : [

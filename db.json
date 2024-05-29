@@ -149,42 +149,42 @@
       "id": 0,
       "titulo": "Diseno de Interfaces de Usuario",
       "subtitulo": "Atomic Design en Figma",
-      "descripcion": "Creamos interfaces de usuario intuitivas y atractivas mediante la metodología de Atomic Design. Esta técnica nos permite construir sistemas de diseño escalables y coherentes, asegurando que cada componente visual se integre perfectamente en el conjunto. Nuestro enfoque garantiza una experiencia de usuario fluida y coherente en todas las plataformas.",
+      
       "imagen": "https://github.com/milasantacruz/portfolio-front-estatico/blob/fe1c4046dfc7a74f899cfc399a5dd3be7eb9712c/images/ada.png?raw=true"
     },
     {
       "id": 1,
       "titulo": "User Experience Research",
       "subtitulo": "Diseño centrado en el usuario",
-      "descripcion": "El User Experience Research es una disciplina centrada en comprender las necesidades, comportamientos y expectativas de los usuarios para mejorar la usabilidad, accesibilidad y satisfacción de un producto o servicio. A través de diversas técnicas de investigación, como entrevistas, pruebas de usuario y análisis de datos, obtenemos información valiosa que guía el diseño de experiencias significativas y efectivas para los usuarios. Nuestro enfoque se centra en crear productos y servicios que satisfagan las necesidades del usuario y generen un impacto positivo en su vida.",
+      
       "imagen": "https://github.com/milasantacruz/portfolio-front-estatico/blob/fe1c4046dfc7a74f899cfc399a5dd3be7eb9712c/images/ada.png?raw=true"
     },
     {
       "id": 2,
       "titulo": "Sprint de Diseño",
       "subtitulo": "",
-      "descripcion": "El Sprint de Diseño es una metodología colaborativa y ágil en la que la empresa (cliente) y el equipo de diseño UX/UI trabajan de manera conjunta para resolver desafíos de diseño y desarrollo en un corto período de tiempo. Durante este proceso, se fomenta la participación activa de todas las partes involucradas, permitiendo la generación rápida de ideas, la creación de prototipos y la validación de soluciones. Basado en los principios del diseño centrado en el usuario, el Sprint de Diseño promueve la iteración rápida y el feedback continuo para llegar a resultados tangibles y validados. Al finalizar el sprint, se obtienen soluciones listas para ser implementadas, lo que acelera el proceso de innovación y la llegada al mercado de productos y servicios de manera eficiente y efectiva. ",
+      
       "imagen": "https://github.com/milasantacruz/portfolio-front-estatico/blob/fe1c4046dfc7a74f899cfc399a5dd3be7eb9712c/images/ada.png?raw=true"
     },
     {
       "id": 3,
       "titulo": "Desarrollo web Estatico",
       "subtitulo": "Landing Pages, Websites, Portfolios",
-      "descripcion": "Un sitio web estático es aquel en el que las páginas se crean y se cargan tal cual se almacenan en el servidor, sin necesidad de generar contenido dinámico en tiempo real. Esto significa que son rápidos, seguros y fáciles de mantener. Ideal para Landing Pages, Websites y Portfolios, el desarrollo web estático garantiza un rendimiento óptimo y una experiencia de usuario fluida en cualquier dispositivo.",
+     
       "imagen": "https://github.com/milasantacruz/portfolio-front-estatico/blob/fe1c4046dfc7a74f899cfc399a5dd3be7eb9712c/images/ada.png?raw=true"
     },
     {
       "id": 4,
       "titulo": "Desarrollo web Dinamico",
       "subtitulo": "Blogs, E-commerce, Web Apps",
-      "descripcion": "Un sitio web dinámico es aquel que genera contenido en tiempo real, permitiendo una interacción personalizada y adaptativa con los usuarios. Esto significa que son ideales para Blogs, E-commerce y Web Apps, donde la actualización constante y la interactividad son clave. El desarrollo web dinámico ofrece una experiencia rica y envolvente, adaptándose a las necesidades específicas de cada usuario.",
+      
       "imagen": "https://github.com/milasantacruz/portfolio-front-estatico/blob/fe1c4046dfc7a74f899cfc399a5dd3be7eb9712c/images/ada.png?raw=true"
     },
     {
       "id": 5,
       "titulo": "Desarrollo de aplicaciones moviles (IOS/Android)",
       "subtitulo": "Flutter",
-      "descripcion": "Creamos aplicaciones móviles para iOS y Android utilizando Flutter. Nuestra metodología permite un desarrollo rápido y eficiente, garantizando una experiencia de usuario nativa y fluida. Con Flutter, desarrollamos aplicaciones visualmente atractivas y funcionales que se adaptan perfectamente a las necesidades de tu negocio.",
+      
       "imagen": "https://github.com/milasantacruz/portfolio-front-estatico/blob/fe1c4046dfc7a74f899cfc399a5dd3be7eb9712c/images/ada.png?raw=true"
     }
   ]

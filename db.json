@@ -159,22 +159,16 @@
       "descripcion": "El User Experience Research se centra en comprender las necesidades, comportamientos y expectativas de los usuarios para mejorar la usabilidad, accesibilidad y satisfacción de un producto o servicio. A través de diversas técnicas como entrevistas, pruebas de usuario y análisis de datos, obtenemos información valiosa que guía el diseño .",
       "imagen": "https://github.com/milasantacruz/portfolio-front-estatico/blob/fe1c4046dfc7a74f899cfc399a5dd3be7eb9712c/images/ada.png?raw=true"
     },
+   
     {
       "id": 2,
-      "titulo": "Sprint de Diseño",
-      "subtitulo": "",
-      "descripcion": "El Sprint de Diseño es una metodología colaborativa y ágil en la que la empresa (cliente) y el equipo de diseño UX/UI trabajan de manera conjunta para resolver desafíos de diseño y desarrollo en un corto período de tiempo. Durante este proceso, se fomenta la participación activa de todas las partes involucradas, permitiendo la generación rápida de ideas, la creación de prototipos y la validación de soluciones.  ",
-      "imagen": "https://github.com/milasantacruz/portfolio-front-estatico/blob/fe1c4046dfc7a74f899cfc399a5dd3be7eb9712c/images/ada.png?raw=true"
-    },
-    {
-      "id": 3,
       "titulo": "Desarrollo web Estatico",
       "subtitulo": "Landing Pages, Websites, Portfolios",
       "descripcion": "Un sitio web estático es aquel en el que las páginas se crean y se cargan tal cual se almacenan en el servidor, sin necesidad de generar contenido dinámico en tiempo real. Esto significa que son rápidos, seguros y fáciles de mantener. Ideal para Landing Pages, Websites y Portfolios, el desarrollo web estático garantiza un rendimiento óptimo y una experiencia de usuario fluida en cualquier dispositivo.",
       "imagen": "https://github.com/milasantacruz/portfolio-front-estatico/blob/fe1c4046dfc7a74f899cfc399a5dd3be7eb9712c/images/ada.png?raw=true"
     },
     {
-      "id": 4,
+      "id": 3,
       "titulo": "Desarrollo web y Mobile Dinamico",
       "subtitulo": "Blogs, E-commerce, Web Apps",
       "descripcion": "Un sitio web dinámico es aquel que genera contenido en tiempo real, permitiendo una interacción personalizada y adaptativa con los usuarios. Esto significa que son ideales para Blogs, E-commerce y Web Apps, donde la actualización constante y la interactividad son clave. El desarrollo web dinámico ofrece una experiencia rica y envolvente, adaptándose a las necesidades específicas de cada usuario.",
